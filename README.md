@@ -5,4 +5,4 @@ Solution to the DOM events exercise - www.udemy.com/the-complete-web-developer-i
 2. Add buttons next to each list item to delete the item when clicked on its corresponding delete button.
 3. When adding a new list item, it automatically adds the delete button next to it.
 
-Final result [here](haffgan.github.io/domevents/)
+Final result [here](https://haffgan.github.io/DomEvents/)
